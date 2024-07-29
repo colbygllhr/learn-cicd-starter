@@ -9,3 +9,5 @@ CREATE TABLE notes (
 
 -- +goose Down
 DROP TABLE notes;
+
+--secret sql comment
